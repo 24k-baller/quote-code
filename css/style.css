@@ -1,0 +1,114 @@
+/* body{
+    font-size: 20px;
+    padding-left: 150px;
+  }
+  .game{
+      background-color: rgb(204, 219, 176);
+      width: 700px;
+      height: 600px;
+  }
+  h1{
+      width: 100%;
+      background-color: gray;
+      text-align: center;
+      height: 70px;
+  }
+  p{
+      color: rgb(46, 46, 49);
+      font-size: 30px;
+      text-align: center;
+  }
+  #guessarea{
+      width: 300px;
+      height: 50px;
+      margin-left: 140px;
+      align-items: center;
+      justify-content: left;
+      text-align: center;
+  }
+  .span{
+      margin-top: 50px;
+      margin-left: 50px;
+      width: 500px;
+      height: 30px;
+  }
+  .button{
+      height: 50px;
+      width: 550px;
+      margin-top:20px;
+      margin-left: 120px;
+      border: 0;
+      border-radius: 5px;
+      background-color: rgb(109, 94, 94);
+      font-size: 25px;
+  }
+  .submit{
+      background-color: rgb(7, 15, 9);
+      color: white;
+      height: 50px;
+      width: 300px;
+      border: 0;
+      margin-left: 250px;
+      border-radius: 5px;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      font-size: 25px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #result{
+      margin-left: 250px;
+      font-size: 30px;
+  } */
+
+
+
+
+
+  .header{
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+}
+.body{
+    background-color: aqua;
+    color: white;
+    margin: auto;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+}
+input{
+    width: 200px;
+    height:50px;
+}
+.btn1{
+    border: none;
+    margin-top :25px; 
+    background-color: yellow;
+    width: 100px;
+    border-radius: 4px;
+    
+}
+.option{
+    margin-top: 40px;
+}
+.btn2{
+    margin: 5px;
+    border: none;
+    background-color: yellow;
+    width: 45%;
+    border-radius: 4px;
+    float: left;
+}
+.btn3{
+    margin: 5px;
+    border: none;
+    background-color: yellow;
+    width: 100px;
+    border-radius: 4px;
+    width: 45%;
+}
